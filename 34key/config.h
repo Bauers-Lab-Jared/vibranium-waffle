@@ -22,7 +22,7 @@
 #undef MOUSEKEY_MAX_SPEED
 #define MOUSEKEY_MAX_SPEED 1
 
-#define FIRMWARE_VERSION u8"blQ5D/5gNKq"
+#define FIRMWARE_VERSION u8"blQ5D/DGjJq"
 #define RAW_USAGE_PAGE 0xFF60
 #define RAW_USAGE_ID 0x61
 #define LAYER_STATE_8BIT
@@ -30,3 +30,4 @@
 #define COMBO_COUNT 30
 
 /* #define RGB_MATRIX_STARTUP_SPD 60 */
+
